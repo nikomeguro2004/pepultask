@@ -135,10 +135,6 @@ The frontend runs on `http://localhost:3000`
 - Automatic table creation on startup
 - Three tables: feedbacks, logs, api_tracking
 
-### Want MySQL Instead?
-- See `MYSQL_SETUP.md` for MySQL installation guide
-- Configuration files are already included
-
 ## License
 
 This project is created for educational purposes.
